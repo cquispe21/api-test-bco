@@ -1,0 +1,6 @@
+@api_test_bco_HostAddress = http://localhost:5105
+
+GET {{api_test_bco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
